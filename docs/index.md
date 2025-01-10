@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Введение
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Система доступна по следующему адресу [Скал@пендра](https://competition.alptur-club.ru/competition).
 
 ## Commands
 
