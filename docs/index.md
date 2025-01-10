@@ -2,16 +2,13 @@
 
 Система доступна по следующему адресу [Скал@пендра](https://competition.alptur-club.ru/competition).
 
-## Commands
+## Назначение и возможности
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Система предназначена для автоматизации процессов подготовки и проведения соревнований по скалолазанию.
+Подерживаемые дисциплины:
 
-## Project layout
+* Лазание на трудность.
+* Боулдеринг.
+* Лазание на Скорость (классический формат)
+* Лазание на Скорость (эталонный формат)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
