@@ -2,3 +2,8 @@ site_name: Документация Скал@пендра
 site_url: https://alptur.github.io/scaladocs
 theme:
   name: material
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
