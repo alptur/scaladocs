@@ -1,7 +1,7 @@
 # Создание соревнования
 
 Выберете в меню пункт "Соревнования".
-![Competition screen](img/comp_br.png){ align=right }
+![Competition screen](img/comp_br.png)
 
 ## Лазание на трудность
 
