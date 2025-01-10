@@ -1,4 +1,4 @@
 site_name: Документация Скал@пендра
-site_url: https://mydomain.org/mysite
+site_url: https://alptur.github.io/scaladocs
 theme:
   name: material
