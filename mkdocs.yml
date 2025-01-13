@@ -13,3 +13,11 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+nav:
+  - index.md
+  - accesstosystem.md
+  - competitioncreate.md
+  - groupcreate.md
+  - howtotrud.md
+  - howtoboulder.md
+  - howtospeed.md
