@@ -1,6 +1,3 @@
----
-order: 1
----
 # Введение
 
 Система доступна по следующему адресу [Скал@пендра](https://competition.alptur-club.ru/competition).
